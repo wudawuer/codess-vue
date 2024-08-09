@@ -1,7 +1,7 @@
 ## vbase-css
 #### Vue Single File Component with Css
 Base for Vue File with CSS
-```
+```vue
 <template>
 	<div>
 

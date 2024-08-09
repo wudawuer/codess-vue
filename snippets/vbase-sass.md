@@ -1,7 +1,7 @@
 ## vbase-sass
 #### Vue Single File Component with SASS
 Base for Vue File with PostCSS
-```
+```vue
 <template>
 	<div>
 

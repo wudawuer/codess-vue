@@ -1,7 +1,7 @@
 ## vbase-pcss
 #### Vue Single File Component with postcss
 Base for Vue File with PostCSS
-```
+```vue
 <template>
 	<div>
 

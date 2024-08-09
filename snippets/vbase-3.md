@@ -1,7 +1,7 @@
 ## vbase-3
 #### Vue Single File Component Composition API
 Base for Vue File Composition API with SCSS
-```
+```vue
 <template>
 	<div>
 

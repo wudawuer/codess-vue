@@ -1,7 +1,7 @@
 ## vbase-styl
 #### Vue Single File Component with Stylus
 Base for Vue File with Stylus
-```
+```vue
 <template>
 	<div>
 

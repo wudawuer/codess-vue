@@ -1,7 +1,7 @@
 ## vbase-less
 #### Vue Single File Component with LESS
 Base for Vue File with PostCSS
-```
+```vue
 <template>
 	<div>
 

@@ -1,7 +1,7 @@
 ## vbase-ts-class
 #### Vue Single File Component with Class based Typescript format
 Base for Vue File with Class based Typescript format
-```
+```vue
 <template>
 	<div>
 

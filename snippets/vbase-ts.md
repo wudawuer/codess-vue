@@ -1,7 +1,7 @@
 ## vbase-ts
 #### Vue Single File Component with Typescript
 Base for Vue File with Typescript
-```
+```vue
 <template>
 	<div>
 

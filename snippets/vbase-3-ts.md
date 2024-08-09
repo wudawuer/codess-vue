@@ -1,7 +1,7 @@
 ## vbase-3-ts
 #### Vue Single File Component Composition API with Typescript
 Base for Vue File Composition API - Typescript
-```
+```vue
 <template>
 	<div>
 

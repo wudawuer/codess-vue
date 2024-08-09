@@ -1,7 +1,7 @@
 ## gitignore
 #### Gitignore
 gitignore file
-```
+```ignore
 ### OSX ###
 *.DS_Store
 .AppleDouble

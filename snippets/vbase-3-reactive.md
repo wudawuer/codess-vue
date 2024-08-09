@@ -1,7 +1,7 @@
 ## vbase-3-reactive
 #### Vue Single File Component Composition API Reactive
 Base for Vue File Composition API with SCSS
-```
+```vue
 <template>
 	<div>
 
