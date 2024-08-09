@@ -1,0 +1,1 @@
+代码片段来源 https://github.com/sdras/vue-vscode-snippets/blob/main/snippets
