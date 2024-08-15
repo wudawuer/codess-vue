@@ -1,7 +1,7 @@
 ## vanim
 #### Vue Transition Component with JavaScript Hooks
 transition component js hooks
-```
+```vue-pug
 transition(
 	mode="out-in"
 	@before-enter="beforeEnter"

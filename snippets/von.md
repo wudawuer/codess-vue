@@ -1,7 +1,7 @@
 ## von
 #### Vue v-on Shortcut Directive
 v-on click handler with arguments
-```
+```vue-pug
 @click="${1:handler}(${2:arg}, $event)"
 ```
 

@@ -1,7 +1,7 @@
 ## vmodel
 #### Vue v-model Directive
 v-model directive
-```
+```vue-pug
 input(v-model="${1:data}" type="text")
 ```
 

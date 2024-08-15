@@ -1,7 +1,7 @@
 ## vnuxtl
 #### Vue Nuxt Routing Link
 nuxt routing link
-```
+```vue-pug
 nuxt-link(to="/${1:page}") ${1:page}
 ```
 

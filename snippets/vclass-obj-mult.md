@@ -1,7 +1,7 @@
 ## vclass-obj-mult
 #### Vue Multiple Conditional Class Bindings
 vue multiple conditional class bindings
-```
+```vue-pug
 ${1:div}(:class="[${2:classNameA}, {${3:classNameB} : ${4:condition}}]")
 ```
 

@@ -1,7 +1,7 @@
 ## vstyle-obj
 #### Vue Style Binding Object
 vue inline style binding, objects
-```
+```vue-pug
 ${1:div}(:style="[${2:styleObjectA}, ${3:styleObjectB]}")
 ```
 

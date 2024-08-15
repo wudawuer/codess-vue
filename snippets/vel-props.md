@@ -1,7 +1,7 @@
 ## vel-props
 #### Vue Component with Props Binding
 component element with props
-```
+```vue-pug
 ${1:component}(:${1:propName}="${0}")
 ```
 
